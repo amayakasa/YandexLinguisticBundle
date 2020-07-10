@@ -1,0 +1,8 @@
+.idea/
+.src/main/resources
+.target/
+*.iml
+*.xml
+
+
+/target/
