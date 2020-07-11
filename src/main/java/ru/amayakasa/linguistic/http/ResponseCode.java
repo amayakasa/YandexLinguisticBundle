@@ -25,17 +25,17 @@ public enum ResponseCode {
     FAILED_TO_TRANSLATE(422, "The text cannot be translated"),
     LANGUAGE_NOT_SUPPORTED(501, "The specified translation direction is not supported");
 
-    public final Integer code;
+    public final int code;
     public final String description;
 
 
-    ResponseCode(Integer code, String description) {
+    ResponseCode(int code, String description) {
         this.code = code;
         this.description = description;
     }
 
-    public static ResponseCode byCode(Integer code) {
-        for (ResponseCode responseCode : values()) if (responseCode.code.equals(code)) return responseCode;
+    public static ResponseCode byCode(int code) {
+        for (ResponseCode responseCode : values()) if (responseCode.code == code) return responseCode;
 
         return null;
     }
