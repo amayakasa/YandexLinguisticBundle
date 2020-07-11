@@ -20,10 +20,10 @@ public enum ResponseCode {
     KEY_INVALID(401, "Invalid key for API"),
     KEY_BLOCKED(402, "Blocked key for API"),
     DAILY_REQUEST_LIMIT_EXCEEDED(403, "Exceeded the daily limit on the amount of requests"),
-    DAILY_TEXT_LIMIT_EXCEEDED(404, "Exceeded the daily limit on the amount of translated text"),
+    DAILY_TEXT_LIMIT_EXCEEDED(404, "Exceeded the daily limit on the amount of text"),
     CHARACTER_LIMIT_EXCEEDED(413, "Exceeded the maximum allowed text size"),
     FAILED_TO_TRANSLATE(422, "The text cannot be translated"),
-    LANGUAGE_NOT_SUPPORTED(501, "The specified translation direction is not supported");
+    LANGUAGE_NOT_SUPPORTED(501, "The specified language direction is not supported");
 
     public final int code;
     public final String description;
