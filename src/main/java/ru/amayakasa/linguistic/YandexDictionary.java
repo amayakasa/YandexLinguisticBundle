@@ -29,7 +29,7 @@ import java.util.List;
  * См. подробнее {@link ru.amayakasa.linguistic.parameters.Language}
  * См. подробнее {@link ru.amayakasa.linguistic.response.Dictionary}
  * <p>
- * Примичание. Вызовы могут быть как синхронными, так и асинхронными.
+ * Примечание. Вызовы могут быть как синхронными, так и асинхронными.
  * Для асинхронных вызовов используйте методы, которые включают в себя #YandexCallback.
  * См. подробнее {@link ru.amayakasa.linguistic.http.YandexCallback}
  * <p>

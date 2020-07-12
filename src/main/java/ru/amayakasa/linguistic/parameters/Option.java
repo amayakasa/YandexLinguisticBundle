@@ -2,7 +2,7 @@ package ru.amayakasa.linguistic.parameters;
 
 /**
  * Список всех опций для настройки анализа Яндекс.Спеллера и параметров Яндекс.Переводчика.
- * Примичание. Опция "INCLUDE_AUTODETECT" используется сугубо для Яндекс.Переводчика.
+ * Примечание. Опция "INCLUDE_AUTODETECT" используется сугубо для Яндекс.Переводчика.
  * <p>
  * См. подробнее {@link ru.amayakasa.linguistic.YandexTranslator}  — Яндекс.Переводчик;
  * См. подробнее {@link ru.amayakasa.linguistic.YandexSpeller}     — Яндекс.Спеллер.
