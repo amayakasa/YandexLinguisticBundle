@@ -3,8 +3,8 @@
 ![Yandex Linguistic Bundle Banner](images/banner.png)
 
 ### Краткое описание
-Yandex Linguistic Bundle — это Java-враппер для всех лингвистических сервисов Яндекса.
-Включает в себя следующие врапперы и обертки для их параметров и ответов (вся документация там):
+Yandex Linguistic Bundle — это набор Java-врапперов для всех лингвистических сервисов Яндекса.
+Включает в себя следующие врапперы и обертки для их параметров и ответов (вся документация внутри):
 
 - [`Враппер для Яндекс.Словаря`](src/main/java/ru/amayakasa/linguistic/YandexDictionary.java)
 - [`Враппер для Яндекс.Предиктора`](src/main/java/ru/amayakasa/linguistic/YandexPredictor.java)
