@@ -2,14 +2,27 @@
 
 ![Yandex Linguistic Bundle Banner](images/banner.png)
 
-Java-враппер для всех лингвистических сервисов Яндекса:
+### Краткое описание
+Yandex Linguistic Bundle — это Java-враппер для всех лингвистических сервисов Яндекса.
+Включает в себя следующие врапперы и обертки для их параметров и ответов (вся документация там):
 
-- [`Яндекс.Словарь`](src/main/java/ru/amayakasa/linguistic/YandexDictionary.java)
-- [`Яндекс.Предиктор`](src/main/java/ru/amayakasa/linguistic/YandexPredictor.java)
-- [`Яндекс.Спеллер`](src/main/java/ru/amayakasa/linguistic/YandexSpeller.java)
-- [`Яндекс.Переводчик`](src/main/java/ru/amayakasa/linguistic/YandexTranslator.java)
+- [`Враппер для Яндекс.Словаря`](src/main/java/ru/amayakasa/linguistic/YandexDictionary.java)
+- [`Враппер для Яндекс.Предиктора`](src/main/java/ru/amayakasa/linguistic/YandexPredictor.java)
+- [`Враппер для Яндекс.Спеллера`](src/main/java/ru/amayakasa/linguistic/YandexSpeller.java)
+- [`Враппер для Яндекс.Переводчика`](src/main/java/ru/amayakasa/linguistic/YandexTranslator.java)
 
-Каждый из врапперов поддерживает синхронные и асинхронные вызовы к сервисам. 
-Для обработки ответов на асинхронные вызовы используются колбэки.
+Каждый из врапперов поддерживает синхронные и асинхронные вызовы к сервисам, также реализованы колбэки.
 
-Перед использованием, пожалуйста, ознакомтесь с условиями использования этого сервиса.
+#### [`Условия использования сервисов Яндекса`](https://yandex.ru/legal/)
+
+### План злодеяний:
+- [x] Задокументировать исходный код
+- [x] Добавить интеграцию `CircleCI`
+- [ ] Написать адекватный `README.md`
+- [ ] Добавить враппер `Яндекс.Переводчика` на `Яндекс.Облаке` 
+- [ ] Опубликовать враппер на `Maven Central`
+- [ ] Отделить документацию от исходного хода
+- [ ] Английская документация и `README.md`
+
+Над баннером для этого репозитория работал `@Ar4ikov`.
+
