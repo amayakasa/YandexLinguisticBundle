@@ -11,7 +11,7 @@ Yandex Linguistic Bundle — это набор Java-врапперов для в
 - [`Враппер для Яндекс.Спеллера`](src/main/java/ru/amayakasa/linguistic/YandexSpeller.java)
 - [`Враппер для Яндекс.Переводчика`](src/main/java/ru/amayakasa/linguistic/YandexTranslator.java)
 
-Каждый из врапперов поддерживает синхронные и асинхронные вызовы к сервисам, также реализованы колбэки.
+Каждый из врапперов поддерживает синхронные и асинхронные вызовы к сервисам, также реализованы callback-функции.
 
 #### [`Условия использования сервисов Яндекса`](https://yandex.ru/legal/)
 
