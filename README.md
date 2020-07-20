@@ -1,4 +1,4 @@
-# Yandex Linguistic Bundle [![CircleCI](https://circleci.com/gh/amayakasa/YandexLinguisticBundle.svg?style=svg)](https://circleci.com/gh/amayakasa/YandexLinguisticBundle) [![codecov](https://codecov.io/gh/amayakasa/YandexLinguisticBundle/branch/master/graph/badge.svg)](https://codecov.io/gh/amayakasa/YandexLinguisticBundle)
+# Yandex Linguistic Bundle [![CircleCI](https://circleci.com/gh/amayakasa/YandexLinguisticBundle.svg?style=svg)](https://circleci.com/gh/amayakasa/YandexLinguisticBundle) 
 
 ![Yandex Linguistic Bundle Banner](images/banner.png)
 
