@@ -1,4 +1,4 @@
-# Yandex Linguistic Bundle | Update in Progress [![CircleCI](https://circleci.com/gh/amayakasa/YandexLinguisticBundle.svg?style=svg)](https://circleci.com/gh/amayakasa/YandexLinguisticBundle) 
+# Yandex Linguistic Bundle | Заброшен, может будет переделан [![CircleCI](https://circleci.com/gh/amayakasa/YandexLinguisticBundle.svg?style=svg)](https://circleci.com/gh/amayakasa/YandexLinguisticBundle) 
 
 ![Yandex Linguistic Bundle Banner](images/banner.png)
 
