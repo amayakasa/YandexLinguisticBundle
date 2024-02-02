@@ -1,6 +1,12 @@
-# Yandex Linguistic Bundle | Заброшен [![CircleCI](https://circleci.com/gh/amayakasa/YandexLinguisticBundle.svg?style=svg)](https://circleci.com/gh/amayakasa/YandexLinguisticBundle) 
+# Yandex Linguistic Bundle
 
 ![Yandex Linguistic Bundle Banner](images/banner.png)
+
+## Дисклеймер
+
+Яндекс переехал в облако и полностью изменил свой API.
+
+Скорее всего ни один из этих врапперов на 2024 год не является актуальным.
 
 ### Краткое описание
 Yandex Linguistic Bundle — это набор Java-врапперов для всех лингвистических сервисов Яндекса.
@@ -18,7 +24,7 @@ Yandex Linguistic Bundle — это набор Java-врапперов для в
 ### План злодеяний
 - [x] Задокументировать исходный код
 - [x] Добавить интеграцию `CircleCI`
-- [ ] Написать адекватный `README.md`
+- [x] Написать адекватный `README.md`
 - [ ] Добавить враппер `Яндекс.Переводчика` на `Яндекс.Облаке` 
 - [ ] Опубликовать набор врапперов на `Maven Central`
 - [ ] Отделить документацию от исходного хода
